@@ -5,4 +5,4 @@ Currently this repo under development, y'all view it soon!
 # Things coming up:
 * Alphadev Korp Logo will be Coming Soon.
 * Copying Logo or Organization Name is Prohibited.
-* Get Written Permission from Organiztion Administrator Ibrahim Zaman (@AbrahimZaman360) About Any Queries.
+* Get written permission from organiztion administrator Ibrahim Zaman (@AbrahimZaman360) or about any queries.
